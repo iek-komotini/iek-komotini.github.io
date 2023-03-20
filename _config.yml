@@ -1,4 +1,4 @@
-url: "https://iek-komotini.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://iek-komotini.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "iek-komotini.github.io/" # the subpath of your site, e.g. /blog
 title: "ΙΕΚ ΔΥΠΑ ΚΟΜΟΤΗΝΗΣ" # the name of your site, e.g. ACME Corp.
 

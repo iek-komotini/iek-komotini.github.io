@@ -1,0 +1,8 @@
+url: "https://iek-komotini.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+title: "ΙΕΚ ΔΥΠΑ ΚΟΜΟΤΗΝΗΣ" # the name of your site, e.g. ACME Corp.
+
+
+plugins: [jekyll-paginate]
+paginate: 6
+paginate_path: /news/page:num/

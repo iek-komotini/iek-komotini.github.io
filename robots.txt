@@ -125,3 +125,6 @@ Disallow:
 # disallow all other bots
 User-agent: *
 Disallow: /
+
+Sitemap: https://iek-dypa-komotinis.gr/sitemap.xml
+

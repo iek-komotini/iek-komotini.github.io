@@ -1,0 +1,44 @@
+---
+layout: post
+title: Επίσκεψη του ΙΕΚ ΔΥΠΑ Κομοτηνής στην 8η Έκθεση Παιδικού Βιβλίου
+---
+
+Τελειώνει το διδακτικό εξάμηνο και οι εκπαιδευτικοί του ΙΕΚ ΔΥΠΑ (ΟΑΕΔ) Κομοτηνής δίνουν τον καλύτερο τους εαυτό σε δράσεις. Είχαμε τη χαρά να επισκεφτούμε την 8η Έκθεση Παιδικού Βιβλίου.
+
+
+<div uk-slideshow>
+        <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1">
+    <ul class="uk-slideshow-items">
+        <li>
+            <img src="{{ site.baseurl }}/img/img_posts/2023-06-vivlio1.webp" alt="" uk-cover>
+        </li>
+         <li>
+            <img src="{{ site.baseurl }}/img/img_posts/2023-06-vivlio2.webp" alt="" uk-cover>
+        </li>
+        <li>
+            <img src="{{ site.baseurl }}/img/img_posts/2023-06-vivlio4.webp" alt="" uk-cover>
+        </li>
+        <li>
+            <img src="{{ site.baseurl }}/img/img_posts/2023-06-vivlio5.webp" alt="" uk-cover>
+        </li>
+        <li>
+            <img src="{{ site.baseurl }}/img/img_posts/2023-06-vivlio6.webp" alt="" uk-cover>
+        </li>
+        <li>
+            <img src="{{ site.baseurl }}/img/img_posts/2023-06-vivlio7.webp" alt="" uk-cover>
+        </li>
+        <li>
+            <img src="{{ site.baseurl }}/img/img_posts/2023-06-vivlio8.webp" alt="" uk-cover>
+        </li>
+        <li>
+            <img src="{{ site.baseurl }}/img/img_posts/2023-06-vivlio9.webp" alt="" uk-cover>
+        </li>
+        <li>
+            <img src="{{ site.baseurl }}/img/img_posts/2023-06-vivlio10.webp" alt="" uk-cover>
+        </li>
+      
+    </ul>
+            <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slideshow-item="previous"></a>
+        <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
+        </div>
+</div>
